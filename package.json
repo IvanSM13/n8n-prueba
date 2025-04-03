@@ -105,4 +105,10 @@
       "eslint-plugin-n8n-local-rules": "patches/eslint-plugin-n8n-local-rules.patch"
     }
   }
+  {
+  "engines": {
+    "node": ">=18.17 <=22"
+  }
+}
+
 }
